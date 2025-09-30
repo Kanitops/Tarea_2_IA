@@ -1,7 +1,7 @@
 # Tarea 2 - Inteligencia Artificial
 Autor: Aníbal Rivas Henríquez (Kanitops)
 
-Este repositorio contiene el desarrollo de la Tarea 2 del curso de Minería de Datos (segundo semestre 2025). El objetivo principal es comparar el rendimiento de dos modelos de clasificación supervisada aplicados a un conjunto de datos de productos.
+Este repositorio contiene el desarrollo de la Tarea 2 del curso de Inteligencia Artificial (segundo semestre 2025). El objetivo principal es comparar el rendimiento de dos modelos de clasificación supervisada aplicados a un conjunto de datos de productos.
 
 ## Modelos Implementados
 - Árbol de Decisión (`DecisionTreeClassifier`)
