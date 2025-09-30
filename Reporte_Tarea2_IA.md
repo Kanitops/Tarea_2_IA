@@ -10,6 +10,7 @@
 
 ### 1.1 Contexto del Problema
 
+
 GMB Solutions requiere un sistema de clasificación automática de productos en su centro de distribución. Cada producto debe ser categorizado según dos dimensiones:
 
 1. **Tipo de producto:**
